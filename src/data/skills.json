@@ -1,0 +1,22 @@
+[
+    {
+      "title": "LANGUAGES",
+      "desc":"JavaScript,Html, java, sql, mongoDb",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "FRAMEWORK",
+      "desc":"React js,tailwind css, sass",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "TOOLS",
+      "desc":"Excel, MsOffice , Visual studio code, figma , canva ",
+      "imageSrc": "skills/javascript.png"
+    },
+    {
+      "title": "SOFT SKILLS",
+      "desc":"Report Building, Strong Stakeholder Management, Excellent Communication, Public speaker and Motivator",
+      "imageSrc": "skills/react.png"
+    }
+  ]

@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "role": "Course of Web Developer",
+      "organisation": "INFOSYS",
+      
+      "location": "Remote",
+      "experiences": [
+        "Understanding on basics of web dev ",
+        "expert in html ,css and js "
+      ],
+      "imageSrc": "company/google.png"
+    },
+    {
+      "id": 2,
+      "role": "Software Development Intern ",
+      "organisation": "Prodigy infoTech",
+      "location": "Remote",
+      "experiences": [
+        "Designed java based application and understand the concept of development"
+      ],
+      "imageSrc": "company/microsoft.png"
+    },
+    {
+      "id": 3,
+      "role": "Web Developer Intern",
+      "organisation": "Netflix",
+      "location": "Remote",
+      "experiences": [
+        "Designed React js Application and gained Confidence "
+      ],
+      "imageSrc": "company/netflix.png"
+    }
+  ]
